@@ -8,9 +8,9 @@ All content in this folder was created using Dr. Angela Yu's videos.<br>
     <th>Descrption</th>
 </tr>
 <tr>
+    <th><a href="lecture_5.html">Lecture 5</a></th>
     <th></th>
-    <th></th>
-    <th></th>
+    <th>How does the Internet Work?</th>
 </tr>
 
 
