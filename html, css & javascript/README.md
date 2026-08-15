@@ -2,8 +2,11 @@
 The first steps to learning web development is always learning the basic structures and the buildings blocks. <br>
 I learned to code by making mistakes and using youtube videos.<br>
 
+
 <table>
-    <th>HTML & CSS</th>
+<th>HTML & CSS</th>
+</table>
+<table>
         <tr>
          <td>Lecture</td>
          <td>Title</td>
