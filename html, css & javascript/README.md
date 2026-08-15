@@ -6,7 +6,7 @@ I learned to code by making mistakes and using youtube videos.<br>
 
 <table>
 <thead>
-<th>HTML & CSS</th>
+<th colspan="2">HTML & CSS</th>
 </thead>
         <tr>
          <td>Lecture</td>
