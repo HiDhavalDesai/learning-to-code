@@ -1,8 +1,4 @@
 ## HTML, CSS & JavaScript
-The first steps to learning web development is always learning the basic structures and the buildings blocks. <br>
-I learned to code by making mistakes and using youtube videos.<br>
-
-
 
 <table>
 <thead>
